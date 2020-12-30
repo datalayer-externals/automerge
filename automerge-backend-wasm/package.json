@@ -3,7 +3,7 @@
     "Orion Henry <orion@inkandswitch.com>",
     "Alex Good <alex@memoryandthought.me>"
   ],
-  "name": "automerge-backend-wasm",
+  "name": "automerge-backend-wasm-nodejs",
   "description": "wasm-bindgen bindings to the automerge-backend rust implementation",
   "version": "0.1.0",
   "license": "MIT",
